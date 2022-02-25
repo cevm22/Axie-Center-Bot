@@ -23,6 +23,11 @@ Intentando resolver este problema, nosotros creamos un bot de Discord llamado **
 
 Para encontrar más información, favor de ir a nuestro canal de [**Discord**](https://discord.gg/pBbRszAsK5)  y reaccionar al sticker en forma de axie para desbloquear la seccion de Axie Infinity y así empezar con  [**cómo funciona**](https://discordapp.com/channels/840809298778259486/945841533146501141)
 
+# NOTES
+
+Use this bot by your own risk, **This bot is PRIVATE and only works in our Discord** [**Latin Knights Guild**](https://discord.gg/pBbRszAsK5). Also we highly recommend to use the official site of [**Axie Infinity**](https://marketplace.axieinfinity.com/) to sell or buy Axies, here is the safty place to do it.
+
+Usa este bot bajo tu propio riesgo, **Este bot es PRIVADO y solo trabaja en nuestro Discord** [**Latin Knights Guild**](https://discord.gg/pBbRszAsK5). También recomendamos ampliamente en utilizar la página oficial de [**Axie Infinity**](https://marketplace.axieinfinity.com/) para vender o comprar Axies, ahí es el lugar más seguro para hacerlo.
 ## 🚀 About Me
 I'm guild master from Latin Knights Guild and have some scholarships of Axie Infinity ecosystem, also I'm a mechatronics engineer who's want to learn about web developing to upgrade my knowledge and try to create tools to help people in someway.
 
