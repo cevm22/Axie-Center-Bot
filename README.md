@@ -7,7 +7,7 @@ All starts with some friends got scammed, because they wanted to buy a competiti
 
 So when they found somebody who sell/buy an Axie in private, the seller or buyer allways ask to send first the asset and here is the dangerous part, because you dont know if the person will complete the deal or will steal your Axie or USDC token.
 
-Trying to solve this issue, we made a Discord Bot called **Axie Center** (like pokemon center) where our bot act like judge to make a fair trade/sale and available  24/7.
+Trying to solve this issue, we made a Discord Bot called **Axie Center** (like pokemon center) where our bot act like smart contract (servers in backend) to make a fair trade/sale and available  24/7.
 
 To find more info, please go to our [**Discord**](https://discord.gg/pBbRszAsK5) channel and react to the axie sticker to unlock Axie Infinity section and starts with  [**how it works**](https://discordapp.com/channels/840809298778259486/946513206472507443)
 
@@ -19,7 +19,7 @@ Todo comenzó porque algunos de mis amigos fueron estafados, porque intentaron c
 
 Entonces cuando encuentras a alguien queriendo vender/comprar un axie in privado, el comprador/vendedor siempre pedirá que envíes tú asset primero y aquí es la parte peligrosa, porque no sabes si la otra persona cumplirá con el trato o te robará tu Axie o tus USDC tokens.
 
-Intentando resolver este problema, nosotros creamos un bot de Discord llamado **Axie Center** (como los centros pokemon) en donde nuestro bot actúa como juez y hace un intercambio/venta justo y disponible 24/7.
+Intentando resolver este problema, nosotros creamos un bot de Discord llamado **Axie Center** (como los centros pokemon) en donde nuestro bot actúa smart contract (en nuestro servers) y hace un intercambio/venta justo y disponible 24/7.
 
 Para encontrar más información, favor de ir a nuestro canal de [**Discord**](https://discord.gg/pBbRszAsK5)  y reaccionar al sticker en forma de axie para desbloquear la seccion de Axie Infinity y así empezar con  [**cómo funciona**](https://discordapp.com/channels/840809298778259486/945841533146501141)
 
